@@ -80,19 +80,19 @@ main{
     text-align: center;
 }
 main p {
-    background-color: rgba(235, 215, 190, 0.89);
-    color: #726767;
+    background-color: rgba(133, 132, 131, 0.89) ;
+        color: #faf0f0;
 }  
 
 footer {
-    background-color: rgba(235, 215, 190, 0.89);
-    color: #726767;
+    background-color: rgba(133, 132, 131, 0.89) ;
+        color: #faf0f0;
     
         
     }    
 .join{
-        background-color: rgba(235, 215, 190, 0.89);
-        color: #726767;
+        background-color: rgba(133, 132, 131, 0.89) ;
+        color: #faf0f0;
         
      }    
 
